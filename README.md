@@ -13,6 +13,7 @@ QuestCraft and QuestCraft Website is a Community run Project. Contribution to th
 
 ## Credits & Third Party Components
 [Font Awesome](https://fontawesome.com/): Icons —  [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
 [Jekyll](https://github.com/jekyll/jekyll) — [MIT License](https://github.com/jekyll/jekyll/blob/master/LICENSE)
 
 
